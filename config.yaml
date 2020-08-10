@@ -1,0 +1,9 @@
+ips: 
+  - 172.17.201.206
+  - 172.17.201.207
+  - 172.17.201.208
+username: root
+password: Laiye@2020
+ssh_port: 22
+data_disk_path: /
+ex_ips:
