@@ -1,0 +1,6 @@
+
+
+/ci-cd/secret
+/kube/config
+/.idea/
+/venv
